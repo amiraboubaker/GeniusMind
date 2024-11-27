@@ -1,4 +1,4 @@
-# courskids
+# GeniusMind
 
 A new Flutter project.
 
